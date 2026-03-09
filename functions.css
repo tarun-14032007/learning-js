@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    /*height: 150px;*/
+    width: 250px;
+    
+    border: 2px;
+    border-style: dotted;
+    border-color: black;
+
+    padding: 20px;
+    
+
+}
+
+button{
+   
+    margin-left: 15px;
+    margin-right: 10px;
+}
